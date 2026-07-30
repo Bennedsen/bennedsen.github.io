@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Morten Bennedsen"
   pronouns         : # example: "He/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor at the University of Copenhagen and Visiting Professor at INSEAD. Researches family business, corporate governance, and sustainability finance. Editor of the Journal of Corporate Finance and advisor to governments, investors, and business families worldwide."
   location         : "Europe"
   employer         : "University of Copenhagen"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=r8MqABAAAAAJ&hl=da&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
