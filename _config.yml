@@ -23,7 +23,7 @@ repository               : "bennedsen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo Bennedsen.jpg"
+  avatar           : "images/INSEAD_MG_1555.jpg"
   name             : "Morten Bennedsen"
   pronouns         : # example: "He/him"  
   bio              : "Professor at the University of Copenhagen and Visiting Professor at INSEAD. Researches family business, corporate governance, and sustainability finance. Editor of the Journa[...]"
