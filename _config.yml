@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Morten Bennedsen / Research"
+title                    : 'Morten Bennedsen / Research'
 title_separator          : "-"
 name                     : &name "Morten Bennedsen"
-description              : &description "Professor of Economics. Research on Family Business, Corporate Governance, Organizational Economics and Sustainability Finance."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Professor of Economics. Research on Family Business, Corporate Governance, Organizational Economics and Sustainability Finance."   # Update this with a gen[...] 
 url                      : https://bennedsen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Morten Bennedsen"
   pronouns         : # example: "He/him"  
-  bio              : "Professor at the University of Copenhagen and Visiting Professor at INSEAD. Researches family business, corporate governance, and sustainability finance. Editor of the Journal of Corporate Finance and advisor to governments, investors, and business families worldwide."
+  bio              : "Professor at the University of Copenhagen and Visiting Professor at INSEAD. Researches family business, corporate governance, and sustainability finance. Editor of the Journa[...]"
   location         : "Europe"
   employer         : "University of Copenhagen"
   uri              : # URL
@@ -142,7 +142,7 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              :
+  publisher              : :
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
@@ -350,7 +350,7 @@ tag_archive:
 #     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
-#     tag: /tags/:name/
+#     tag: /tags/
 
 
 # HTML Compression
